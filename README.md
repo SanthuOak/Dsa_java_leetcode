@@ -7,6 +7,7 @@ My java DSA problem-solving journey with leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0202-happy-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -20,4 +21,16 @@ My java DSA problem-solving journey with leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0202-happy-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
