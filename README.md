@@ -8,6 +8,7 @@ My java DSA problem-solving journey with leetcode
 | ------- | ------- |
 | [0202-happy-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
