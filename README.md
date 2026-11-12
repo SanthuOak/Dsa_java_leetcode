@@ -11,6 +11,7 @@ My java DSA problem-solving journey with leetcode
 | [0509-fibonacci-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
