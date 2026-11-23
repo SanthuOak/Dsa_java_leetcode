@@ -6,6 +6,7 @@ My java DSA problem-solving journey with leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0258-add-digits/) | Easy |
@@ -58,4 +59,12 @@ My java DSA problem-solving journey with leetcode
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0342-power-of-four/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
