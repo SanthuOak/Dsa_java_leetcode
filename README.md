@@ -7,6 +7,7 @@ My java DSA problem-solving journey with leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -33,6 +34,7 @@ My java DSA problem-solving journey with leetcode
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -47,4 +49,8 @@ My java DSA problem-solving journey with leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0258-add-digits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
