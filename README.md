@@ -6,6 +6,7 @@ My java DSA problem-solving journey with leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0069-sqrtx](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0231-power-of-two/) | Easy |
@@ -22,6 +23,7 @@ My java DSA problem-solving journey with leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0202-happy-number](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -69,4 +71,8 @@ My java DSA problem-solving journey with leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0069-sqrtx/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0012-integer-to-roman](https://github.com/SanthuOak/Dsa_java_leetcode/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
